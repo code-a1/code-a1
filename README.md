@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👀 While you're here, have a look at <b>my latest repository</b>: <a href="https://github.com/code-a1/PHPGraph">PHPGraph</a> <i>(A Object-Oriented library for the official TelegraphAPI)</i>
+
+<b>✈️ Telegram/Tepegraph<br>
+🌐 PHP</b>
+
+![](https://komarev.com/ghpvc/?username=code-a1&color=blue&style=flat)
 <!--
 **code-a1/code-a1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

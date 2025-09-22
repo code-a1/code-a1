@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👀 While you're here, have a look at <b>my latest repository</b>: <a href="https://github.com/code-a1/WorkTrack">WorkTrack</a> <i>(An Android App developed with Jetpack Compose followinf the Material Desing 3 principles, for tracking working hours)</i>
+👀 While you're here, have a look at <b>my latest repository</b>: <a href="https://github.com/code-a1/WorkTrack">WorkTrack</a> <i>(An Android App developed with Jetpack Compose following the Material Desing 3 principles, for tracking working hours)</i>
 
 <b>✈️ Android/Kotlin<br></b>
 

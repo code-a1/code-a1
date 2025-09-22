@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-👀 While you're here, have a look at <b>my latest repository</b>: <a href="https://github.com/code-a1/PHPGraph">PHPGraph</a> <i>(A Object-Oriented library for the official TelegraphAPI)</i>
+👀 While you're here, have a look at <b>my latest repository</b>: <a href="https://github.com/code-a1/WorkTrack">WorkTrack</a> <i>(An Android App developed with Jetpack Compose followinf the Material Desing 3 principles, for tracking working hours)</i>
 
-<b>✈️ Telegram/Tepegraph<br>
-🌐 PHP</b>
+<b>✈️ Android/Kotlin<br></b>
 
 ![](https://komarev.com/ghpvc/?username=code-a1&color=blue&style=flat)
 <!--
